@@ -13,9 +13,9 @@
 
 `DWG-CICFA-01` &nbsp;·&nbsp; `vB.01` &nbsp;·&nbsp; `STATUS: ACTIVE`
 
-[![status](https://img.shields.io/badge/OPERATION_001-MOMA.SYM-ff2d2d?style=flat-square&labelColor=0a0a0a)](https://boris-maker.github.io/CICF/)
-[![register](https://img.shields.io/badge/REGISTER-A%2BB-333?style=flat-square&labelColor=0a0a0a)](https://boris-maker.github.io/CICF/)
-[![reward](https://img.shields.io/badge/REWARD-ATTRIBUTION_ONLY-222?style=flat-square&labelColor=0a0a0a)](https://boris-maker.github.io/CICF/)
+[![status](https://img.shields.io/badge/OPERATION_001-MOMA.SYM-ff2d2d?style=flat-square&labelColor=0a0a0a)](https://deep-web-gallery.github.io/CICFA/)
+[![register](https://img.shields.io/badge/REGISTER-A%2BB-333?style=flat-square&labelColor=0a0a0a)](https://deep-web-gallery.github.io/CICFA/)
+[![reward](https://img.shields.io/badge/REWARD-ATTRIBUTION_ONLY-222?style=flat-square&labelColor=0a0a0a)](https://deep-web-gallery.github.io/CICFA/)
 [![license](https://img.shields.io/badge/LICENSE-CC_BY--NC--SA_4.0-444?style=flat-square&labelColor=0a0a0a)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 </div>
@@ -82,7 +82,7 @@ Identify a vulnerability in MoMA's institutional architecture. Submit a disclosu
 ./reward --cash=false          # No cash. No crypto. Art-world capital only.
 ```
 
-**→ [Full Brief & Submission Form](https://boris-maker.github.io/CICF/)**
+**→ [Full Brief & Submission Form](https://deep-web-gallery.github.io/CICFA/)**
 
 ---
 
@@ -186,6 +186,6 @@ PARENT_PROCESSES [
 ```
 
 **Maintained by [@MarketDepravation](https://github.com/boris-maker)**
-`DWG-CICFA-01` &nbsp;·&nbsp; [Web Interface](https://boris-maker.github.io/CICF/) &nbsp;·&nbsp; [Operational Repo](https://github.com/boris-maker/DWG_AGENTS-TEST)
+`DWG-CICFA-01` &nbsp;·&nbsp; [Web Interface](https://deep-web-gallery.github.io/CICFA/) &nbsp;·&nbsp; [Operational Repo](https://github.com/boris-maker/DWG_AGENTS-TEST)
 
 </div>
