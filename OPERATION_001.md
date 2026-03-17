@@ -1,5 +1,24 @@
 # OPERATION 001 — MOMA.SYM
 
+## Conceptual Framework
+
+```
+  Penetration Testing          Crowdsourcing
+         ●                          ●
+              ↘              ↙
+               [ Bug Bounty ]   ← CICFA operates here
+```
+
+> "A bug bounty program is a deal offered by many websites, organizations, and software
+> developers by which individuals can receive recognition and compensation for reporting
+> bugs, especially those pertaining to security vulnerabilities. **If no financial reward
+> is offered, it is called a vulnerability disclosure program.**"
+> — [Wikipedia](https://en.wikipedia.org/wiki/Bug_bounty_program)
+
+CICFA runs a **vulnerability disclosure program** — no financial reward — reframed for cultural infrastructure. [Penetration testing](https://en.wikipedia.org/wiki/Penetration_test) methodology applied to institutional power. [Crowdsourced](https://en.wikipedia.org/wiki/Crowdsourcing) intelligence from artists, researchers, theorists, and security practitioners. The target is institutional architecture. The currency is attribution and exhibition.
+
+---
+
 ```
 STATUS    ACTIVE — OPEN CALL
 TARGET    Museum of Modern Art (MoMA), New York City
@@ -76,6 +95,6 @@ For participants needing entry points:
 
 ## Submit
 
-**→ [Full Brief & Submission Form](https://boris-maker.github.io/CICF/)**
+**→ [Full Brief & Submission Form](https://deep-web-gallery.github.io/CICFA/)**
 
 Or contact: @MarketDepravation
