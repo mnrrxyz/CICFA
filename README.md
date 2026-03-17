@@ -175,24 +175,6 @@ PARENT_PROCESSES [
 
 ---
 
-## `> CONTRIBUTE`
-
-```bash
-git clone https://github.com/boris-maker/CICFA.git
-cd CICFA
-
-# Read the brief
-cat OPERATION_001.md
-
-# Submit a finding
-open https://boris-maker.github.io/CICF/
-
-# Or reach out directly
-contact: @MarketDepravation
-```
-
----
-
 <div align="center">
 
 ```
